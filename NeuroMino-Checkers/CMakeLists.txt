@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.10)
 project(GuiNN-Checkers VERSION 1.0.0 LANGUAGES C)
 
 # Project description
-set(PROJECT_DESCRIPTION "GuiNN Checkers - A cross-platform checkers game built with C and SDL2")
+set(PROJECT_DESCRIPTION "NeuroMino Checkers - A cross-platform checkers game built with C and SDL2")
 
 # Set C standard
 set(CMAKE_C_STANDARD 11)
@@ -161,7 +161,7 @@ install(DIRECTORY docs/
 
 message(STATUS "")
 message(STATUS "==========================================")
-message(STATUS "GuiNN Checkers CMake Configuration Summary")
+message(STATUS "NeuroMino Checkers CMake Configuration Summary")
 message(STATUS "==========================================")
 message(STATUS "Project: ${PROJECT_NAME} ${PROJECT_VERSION}")
 message(STATUS "C Standard: C11")

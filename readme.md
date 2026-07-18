@@ -1,6 +1,6 @@
-# GuiNN Checkers
+# NeuroMino Checkers
 
-GuiNN Checkers is a modern, cross-platform desktop checkers game developed in **C** using the **SDL2** multimedia library. The project aims to demonstrate professional software engineering practices while delivering a polished and enjoyable gaming experience.
+NeuroMino Checkers is a modern, cross-platform desktop checkers game developed in **C** using the **SDL2** multimedia library. The project aims to demonstrate professional software engineering practices while delivering a polished and enjoyable gaming experience.
 
 Unlike a traditional academic checkers project, GuiNN Checkers is designed with a modular architecture, reusable UI components, smooth animations, customizable themes, and an AI opponent. The codebase is structured for maintainability, scalability, and portability across multiple operating systems.
 

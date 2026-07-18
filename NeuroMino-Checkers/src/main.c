@@ -1,5 +1,5 @@
 /**
- * GuiNN Checkers - Main Entry Point
+ * NeuroMino Checkers - Main Entry Point
  * 
  * This file contains the main entry point for the checkers game.
  * Stage 4: SDL Initialization - Initialize SDL, create window and renderer
@@ -164,7 +164,7 @@ int main(int argc, char* argv[]) {
     
     printf("\n");
     printf("==========================================\n");
-    printf("GuiNN Checkers - Exited successfully\n");
+    printf("NeuroMino Checkers - Exited successfully\n");
     printf("==========================================\n");
     printf("\n");
     
